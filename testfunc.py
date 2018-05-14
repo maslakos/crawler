@@ -7,5 +7,7 @@ def func(n):
     n = n*n #nice job
     print("ŁAP")
     #foo bar - testing pull request
+    #foo bar2 - maslakos testuje commita
+
 
     return n
