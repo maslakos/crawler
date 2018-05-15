@@ -20,5 +20,5 @@ def pagedownloader(page):
     text = text.encode('ascii', 'ignore').decode('ascii')
     print(text)
 
-pagedownloader(input("Paste link to allegro.pl site"))
+pagedownloader("https://allegro.pl/kategoria/laptopy-491?order=m")
 
